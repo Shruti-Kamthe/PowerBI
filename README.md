@@ -1,11 +1,11 @@
-# PowerBI
-
-Call Center Analysis is created using Microsoft PowerBI. 
+# Call Center Analysis using PowerBI. 
 
 Through the interactive visualizations and intuitive dashboards, stakeholders can identify trends, optimize operations, and enhance customer experience, ultimately driving improvements in call center productivity and service quality.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# About the Dataset 
+
+## About the Dataset 
 
 The dataset consists of 10 columns and 5001 rows having the following variables:
 <li><b>Call Id</b>: Unique ID of each call. </li> 
