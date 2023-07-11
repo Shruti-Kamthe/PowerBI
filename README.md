@@ -5,7 +5,7 @@ Through the interactive visualizations and intuitive dashboards, stakeholders ca
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## About the Dataset 
+## About the dataset 
 
 The dataset consists of 10 columns and 5001 rows having the following variables:
 <li><b>Call Id</b>: Unique ID of each call. </li> 
